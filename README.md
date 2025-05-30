@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am trying to improve myself in the field of solidity and back-end. I have beginner-intermediate knowledge in HTML-CSS-Javascript, c, c#, python, solidity, sql languages.<br><br>
+I am trying to improve myself in the field of front-end, data and cloud. I have intermediate knowledge in HTML-CSS-Javascript, c, c#, python, solidity, sql languages.<br><br>
 
 
 ## 🌐 Socials:

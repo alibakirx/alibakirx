@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I am trying to improve myself in the field of front-end, data and cloud. I have intermediate knowledge in HTML-CSS-Javascript, c, c#, python, solidity, sql languages.<br><br>
+Here is my personal website: https://www.alibakirx.online/
 
 
 ## 🌐 Socials:
